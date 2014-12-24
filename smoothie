@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://phpstorm-themes.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/72" />
+<link rel="canonical" href="/theme/smoothie" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Smoothie | phpStorm Themes</title>
+  <style>
+@import url("http://phpstorm-themes.com/modules/system/system.base.css?ngu8ya");
+</style>
+<style>
+@import url("http://phpstorm-themes.com/modules/field/theme/field.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/modules/views/css/views.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/modules/ckeditor/css/ckeditor.css?ngu8ya");
+</style>
+<style>
+@import url("http://phpstorm-themes.com/sites/all/modules/ctools/css/ctools.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.css?ngu8ya");
+</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" media="all" />
+<style>
+@import url("http://phpstorm-themes.com/sites/all/themes/bootstrap/css/overrides.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/themes/phpstorm_themes/css/style.css?ngu8ya");
+@import url("http://phpstorm-themes.com/sites/all/themes/phpstorm_themes/css/bootstrap-fileupload.min.css?ngu8ya");
+</style>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans|Raleway' rel='stylesheet' type='text/css'>
+  <script src="http://phpstorm-themes.com/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script src="http://phpstorm-themes.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://phpstorm-themes.com/misc/drupal.js?ngu8ya"></script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+<script src="http://phpstorm-themes.com/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?ngu8ya"></script>
+<script src="http://phpstorm-themes.com/sites/all/modules/google_analytics/googleanalytics.js?ngu8ya"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27173410-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://phpstorm-themes.com/sites/all/themes/phpstorm_themes/js/bootstrap-fileupload.min.js?ngu8ya"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"phpstorm_themes","theme_token":"o9nqxX7XKcW-d_4s6xvBkoC4sLMKd4E8nR_XeZSKWIE","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/phpstorm_themes\/js\/bootstrap-fileupload.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked\/ds_2col_stacked.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.1\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/phpstorm_themes\/css\/style.css":1,"sites\/all\/themes\/phpstorm_themes\/css\/bootstrap-fileupload.min.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-72 node-type-pstorm-theme" >
+    
+<div class="header-container container">
+    <header id="navbar" role="banner" class="navbar">
+        <div class="navbar-inner">
+            <div class="container">
+                <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+
+                                    <a class="logo pull-left" href="/" title="Home">
+                        <img src="http://phpstorm-themes.com/sites/default/files/logo.png" alt="Home" />
+                    </a>
+                
+                
+                                    <div class="nav-collapse collapse">
+                        <nav role="navigation">
+                                                            <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/content/help">Help</a></li>
+<li class="last leaf"><a href="/upload" title="">Upload</a></li>
+</ul>                                                                                                            </nav>
+                    </div>
+                            </div>
+        </div>
+    </header>
+</div>
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#header -->
+
+  <div class="row-fluid">
+
+      
+
+    <section class="span12">  
+                  <a id="main-content"></a>
+                    <h1 class="page-header">Smoothie</h1>
+                                                        
+<div  about="/theme/smoothie" typeof="sioc:Item foaf:Document" class="ds-2col-stacked node node-pstorm-theme view-mode-full clearfix">
+
+  
+  <div class="group-header">
+    <div class="field field-name-field-screenshots field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://phpstorm-themes.com/sites/default/files/Screen-Shot-2012-12-06-at-3.11.56-PM.png" width="1061" height="777" /></div><div class="field-item odd"><img typeof="foaf:Image" src="http://phpstorm-themes.com/sites/default/files/Screen-Shot-2012-12-06-at-3.12.03-PM.png" width="1013" height="535" /></div><div class="field-item even"><img typeof="foaf:Image" src="http://phpstorm-themes.com/sites/default/files/Screen-Shot-2012-12-06-at-3.12.18-PM.png" width="839" height="574" /></div></div></div>  </div>
+
+  <div class="group-left">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"></div></div></div><div class="field field-name-field-author-name field-type-text field-label-above"><div class="field-label">Author Name:&nbsp;</div><div class="field-items"><div class="field-item even">Ranie</div></div></div><div class="field field-name-field-author-url field-type-text field-label-above"><div class="field-label">Author URL:&nbsp;</div><div class="field-items"><div class="field-item even">http://rvkdigital.com</div></div></div>  </div>
+
+  <div class="group-right">
+    <div class="btn field-name-theme_file"><span class="file"><img class="file-icon" alt="" title="application/xml" src="/modules/file/icons/application-octet-stream.png" /> <a href="http://phpstorm-themes.com/sites/default/files/Smoothie.xml" type="application/xml; length=117794">Smoothie.xml</a></span></div>  </div>
+
+  <div class="group-footer">
+      </div>
+
+</div>
+
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+    <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p>2013-2015 phpStorm-themes.com</p>
+  
+</section> <!-- /.block -->
+  </div>
+</footer>
+  </body>
+</html>
