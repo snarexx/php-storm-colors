@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Zacks copy" version="124" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.6" />
+<scheme name="x-files" version="124" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
@@ -854,10 +854,16 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="fff5a3" />
+        <option name="BACKGROUND" value="222222" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="777777" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="fff5a3" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1123,10 +1129,40 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="86ff72" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a0ffce" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="829be2" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffbeac" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="b986cc" />
+        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1326,9 +1362,15 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="5a70a3" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
+        <option name="FOREGROUND" value="ff7fbf" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
@@ -1340,9 +1382,75 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="86ff72" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="95b0ff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="ec97cd" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
+        <option name="FOREGROUND" value="fff5a3" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="ec97cd" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="af64ff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c9c9bb" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="ffed79" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="222222" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
         <option name="FOREGROUND" value="ff6a38" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="c9c9bb" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1354,7 +1462,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="FOREGROUND" value="86ff72" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
